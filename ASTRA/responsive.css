@@ -1,0 +1,375 @@
+@media (max-width:576px) {
+
+  .dropdown_menu {
+    left: 2rem;
+    width: unset;
+  }
+
+  .dropdown_menu li {
+    color: #fff;
+  }
+
+  .astra-text h1 {
+    font-size: 28px;
+    line-height: 38.8px;
+    padding-bottom: 0px;
+  }
+
+  .astra-btn {
+    padding: 20px 0px 50px 0px;
+  }
+
+  .trade-heading h1 {
+    font-size: 28px;
+  }
+
+  .feature-btn button {
+    font-size: 16px;
+  }
+
+  .cards {
+    display: flex;
+    justify-content: center;
+  }
+
+  .card-one {
+    width: 90%;
+    margin-bottom: 0px;
+  }
+
+  .card-one-text h4 {
+    font-size: 18px;
+    line-height: 18.8px;
+    padding-bottom: 6px;
+  }
+
+  .card-one-text p {
+    font-size: 14px;
+    line-height: 16px;
+  }
+
+  .card-two {
+    width: 90%;
+    margin-bottom: 24px;
+  }
+
+  .card-two-text h4 {
+    font-size: 18px;
+    line-height: 20.8px;
+    padding-bottom: 6px;
+  }
+
+  .card-two-text p {
+    font-size: 14px;
+    line-height: 15px;
+  }
+
+  .card-seven {
+    width: 90%;
+  }
+
+  .card-seven-text h4 {
+    font-size: 18px;
+    line-height: 20.8px;
+    padding-bottom: 6px;
+  }
+
+  .card-seven-text p {
+    font-size: 14px;
+  }
+
+  .coming-heading h1 {
+    font-size: 38px;
+    padding: 30px 0 40px 0;
+  }
+
+  .buy-text h4 {
+    font-size: 18px;
+    color: #ffff;
+    line-height: 28.8px;
+    padding-bottom: 6px;
+  }
+
+  .buy-text p {
+    font-size: 14px;
+  }
+
+  .designed-heading h1 {
+    font-size: 28px;
+    line-height: 36px;
+  }
+
+  .designed-btn button {
+    font-size: 16px;
+  }
+
+  .fast-img img {
+    width: 226px;
+    height: 190px;
+  }
+
+  .fast-text h1 {
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 36.8px;
+  }
+
+  .secure-img img {
+    width: 226px;
+    height: 197px;
+  }
+
+  .fast-text p {
+    font-size: 14px;
+    text-align: left;
+    line-height: 17px;
+  }
+
+  .fee-img img {
+    width: 226px;
+    height: 229px;
+  }
+
+  .fast-text p {
+    font-size: 14px;
+    text-align: left;
+  }
+
+  .fast {
+    gap: 40px;
+    padding: 0px 8px;
+  }
+
+  .ready-heading h1 {
+    font-size: 28px;
+    line-height: 32px;
+  }
+
+  .ready-btn button {
+    font-size: 16px;
+  }
+
+  .join-telegram {
+    height: 183px;
+  }
+
+  .read-docs {
+    height: 200px;
+  }
+
+  .ready-heading p {
+    font-size: 16px;
+    padding: 8px;
+  }
+
+  .join {
+    display: flex;
+    gap: 24px;
+    flex-wrap: wrap;
+  }
+
+  .bot-text h1 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+
+  .bot-text h4 {
+    font-size: 18px;
+    padding: 0px;
+  }
+
+  .testimonials-btn button {
+    font-size: 16px;
+  }
+
+  .testimonials-heading h1 {
+    font-size: 28px;
+  }
+
+  .vision-btn button {
+    font-size: 16px;
+  }
+
+  .testimonials-info {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 60px;
+  }
+
+  .unbeat-img img {
+    width: 100px;
+    height: 66.62px;
+  }
+
+  .unbeat-text h4 {
+    font-size: 16px;
+  }
+
+  .vision-heading h1 {
+    font-size: 28px;
+    margin-bottom: 12px;
+  }
+
+  .answer-btn button {
+    font-size: 16px;
+  }
+
+  .vision-text p {
+    font-size: 16px;
+    padding: 0px 8px 60px 8px;
+  }
+
+  .answer-heading h1 {
+    font-size: 28px;
+    padding-bottom: 12px;
+  }
+
+  .answer {
+    padding: 0px 8px 40px 8px;
+  }
+
+  .confidence-heading h1 {
+    font-size: 28px;
+    padding-bottom: 18px;
+    line-height: 34px;
+  }
+
+  .confidence-btn button {
+    font-size: 16px;
+  }
+
+  .foot-details {
+    max-width: 1128px;
+    margin: auto;
+    padding: 40px 8px 40px 8px;
+  }
+
+  .copyright-details {
+    padding: 15px 8px;
+  }
+
+  .coming-info {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+    padding-bottom: 100px;
+    justify-content: center;
+  }
+
+  .cards {
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
+
+@media (max-width:768px) {
+
+  .dropdown_menu {
+    left: 2rem;
+    width: unset;
+  }
+
+  .dropdown_menu li {
+    color: #fff;
+  }
+
+  .cards{
+    padding: 0px 9px;
+  }
+
+  .coming-info {
+    display: flex;
+    gap: 24px;
+    padding-bottom: 100px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.fast {
+  display: flex;
+  padding: 0px 8px;
+}
+
+.join-telegram {
+  height: 160px;
+}
+
+.read-docs{
+  height: 160px;
+}
+
+.testimonials-info {
+  justify-content: center;
+  display: flex;
+  text-align: left;
+  gap: 16px;
+  margin-bottom: 130px;
+  flex-wrap: wrap;
+} 
+
+.vision-text p{
+  padding: 0px 8px 130px 8px;
+}
+
+.answer {
+  padding: 0px 8px 100px 8px;
+}
+
+.foot-info{
+  padding: 0px 8px 0px 8px;
+}
+
+.copyright-details{
+  padding: 0px 8px 0px 8px;
+}
+}
+
+
+@media (max-width:992px) {
+
+  .navbar .links,
+  .navbar .nav-btn {
+    display: none;
+  }
+
+  .navbar .toggle-btn {
+    display: block;
+  }
+
+  .dropdown_menu {
+    display: block;
+  }
+
+  .dropdown_menu {
+    left: 2rem;
+    width: unset;
+  }
+
+  .dropdown_menu li {
+    color: #fff;
+  }
+
+  .testimonials-info {
+    padding: 0px 8px ;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .vision-text p{
+   padding: 0px 8px 100px 8px;
+  }
+
+  .answer{
+    padding: 0px 8px 100px 8px;
+  }
+
+  .foot-info{
+    padding: 0px 8px 0px 8px;
+  }
+
+  .copyright-details{
+    padding: 0px 8px 0px 8px;
+  }
+
+}
